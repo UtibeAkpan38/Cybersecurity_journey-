@@ -35,7 +35,15 @@ To become a skilled SOC Analyst by developing practical knowledge in:
 - Incident response simulations
 - Log analysis exercises
 
----
+---Labs & Projects
+
+| Lab | Tools Used | Status |
+|-----|-----------|--------|
+| Python Keylogger | Python, evdev, Netcat | ✅ Completed |
+| ICMP Flood Attack & Packet Capture | Kali Linux, tcpdump, hping3 | ✅ Completed |
+| ARP Poisoning Attack | Ettercap, Wireshark | ✅ Completed |
+| DNS Traffic Analysis | Wireshark, tcpdump | ✅ Completed |
+| ARP Poisoning Theory & DHCP Rogue Server | Packet Tracer | ✅ Completed |
 
 ## 🔗 Connect With Me
 - LinkedIn: 
